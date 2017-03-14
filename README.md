@@ -9,7 +9,7 @@ Inspired by the [ThoughtWorks Technology rador](https://www.thoughtworks.com/rad
  - Gulp - Front-end build system
  - Chef - System management automation
  - Laravel
- - [MailCatcher](http://mailcatcher.me/) - catch locally sent emails
+ - [MailHog](https://github.com/mailhog/MailHog) - catch locally sent emails
  - [PHPUnit](https://phpunit.de/)
  - Step debugging with Xdebug
  - [Docker](https://www.docker.com/)
@@ -23,6 +23,7 @@ Inspired by the [ThoughtWorks Technology rador](https://www.thoughtworks.com/rad
  - [Composition over inheritance](https://www.reddit.com/r/PHP/comments/3yaqlf/composition_over_inheritance_php_style/)
  - [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
  - [phptherightway.com](http://www.phptherightway.com/)
+ - [Good git message](https://chris.beams.io/posts/git-commit/)
 
 ## Trial
 - [phpspec](http://www.phpspec.net/en/stable/) [Demo Laracast](https://laracasts.com/lessons/phpspec-is-so-good)
