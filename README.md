@@ -5,7 +5,7 @@ Or Drop.
 Inspired by the [ThoughtWorks Technology rador](https://www.thoughtworks.com/radar)
 
 ## Adopt
-- Tools
+Tools
  - Gulp - Front-end build system
  - Chef - System management automation
  - Laravel
@@ -14,7 +14,7 @@ Inspired by the [ThoughtWorks Technology rador](https://www.thoughtworks.com/rad
  - Step debugging with Xdebug
  - [Docker](https://www.docker.com/)
  - [Let's Encypt](https://letsencrypt.org/) - Open certificate authority
-- Concept
+Concept
  - IIFE - JS Immediately-Invoked Function Expression.
  - [target=blank use with caution](https://mathiasbynens.github.io/rel-noopener/)
  - DDD - Domain Driven Design
